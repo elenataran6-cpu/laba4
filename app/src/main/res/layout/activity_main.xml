@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="Таран Елена"
         android:gravity="center_horizontal"
-        android:textSize="25sp"/>
+        android:textSize="26sp"/>
 
     <TextView
         android:layout_width="match_parent"
